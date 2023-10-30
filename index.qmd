@@ -1,0 +1,3 @@
+# Preface {.unnumbered}
+
+Solutions of the assignment sheets for the lecture "Numerics 0 WS23/24" at Uni Heidelberg.
